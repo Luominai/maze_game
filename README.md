@@ -8,6 +8,7 @@ w to move forward
 s to move backward  
 q to turn left  
 e to turn right  
+space to dig for treasure
 
 # launch codes
 ```
