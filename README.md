@@ -7,5 +7,6 @@ s to move backward
 q to turn left  
 e to turn right  
 
+cd maze_game
 node index.js to launch
 
